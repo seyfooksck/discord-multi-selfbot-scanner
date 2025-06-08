@@ -139,7 +139,7 @@ Tüm sunucuların hangi bot'larda olduğunu görmek için:
 - **nouser.json**: Tüm kontrol edilen kullanıcılar
   
 ### Webhook Detay
-![alt text](https://github.com/[seyfooksck]/[discord-multi-selfbot-scanner]/blob/[main]/user.png?raw=true)
+![alt text](https://github.com/seyfooksck/discord-multi-selfbot-scanner/blob/main/user.png?raw=true)
 https://github.com/seyfooksck/discord-multi-selfbot-scanner/blob/main/user.png?raw=true
 ## 📈 Performans
 
